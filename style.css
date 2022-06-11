@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: #020c1b;
+  font-family: Arial;
+}
+.content {
+  color: #8892b0;
+  margin: 150px;
+  text-align: center;
+}
+.rowcontact {
+  display: flex;
+  justify-content: space-between;
+}
+.meHeading {
+  color: #e6f1ff;
+}
